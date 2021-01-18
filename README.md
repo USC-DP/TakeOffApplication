@@ -1,6 +1,6 @@
-# TakeOffApp
+# TakeOff Application Unity Project
 <p align="center">
-  <img src="refImages/Capture>PNG">
+  <img src="refImages/Capture.PNG">
 </p>
 Initally made with JavaFX, TakeOff is an application that has you play as the Saturn V rocket, dodging obstacles on its way into space.
 

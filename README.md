@@ -10,4 +10,4 @@ To play, click and drag the rock to dodge the obstacles.
 <p align="center">
   <img src="refImages/cap2.PNG">
 </p>
-This is an application made in Unity in the programming language C#
+This is an application made in Unity in the programming language C#.
